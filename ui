@@ -668,10 +668,10 @@ do
 		LOADER.Parent = coregui
 
 		-- PreLoad
-		Config.Name = Config.Name or 'Pharmacii.gg™'
-		Config.Logo = Config.Logo or 'rbxassetid://14554547135'
+		Config.Name = Config.Name or 'Pharmacii.gg'
+		Config.Logo = Config.Logo or '92591462569476'
 		Config.ConfigFolder = Config.ConfigFolder or 'pharmacii.gg'
-		Config.Status = Config.Status or false
+		Config.Status = Config.Status or 'Stable'
 		Config.Accent = Config.Accent or pharmacii_gg.theme.Accent
 		Config.HitBox = Config.HitBox or pharmacii_gg.theme.HitBox
 
